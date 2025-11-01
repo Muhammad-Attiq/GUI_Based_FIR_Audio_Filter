@@ -5,7 +5,7 @@ It allows users to load or record an audio signal, apply different types of FIR 
 
 ---
 
-## 🎛️ Features
+## Features
 
 - **Load or Record Audio** directly from the GUI  
 - **Four FIR filter types**: Lowpass, Highpass, Bandpass, and Bandstop  
